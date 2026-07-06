@@ -35,6 +35,3 @@ I am documenting my progress through this roadmap daily.
 
 💬 Let's Connect
 Are you building with AI Agents? Let's share insights and project ideas. Open a **Discussion** in this repo or reach out to me on [LinkedIn](https://www.linkedin.com/).
-
----
-Disclaimer: This roadmap is curated to support student learning and development in AI engineering.
