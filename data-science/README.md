@@ -19,5 +19,15 @@ Follow this path to progress from foundational concepts to professional data mod
 
 ---
 
+## 📈 Intermediate Level: Power BI Proficiency
+*Focus: Data Security, Advanced Analytics, and Report Optimization.*
+
+- [ ] **Manage and secure Power BI**
+  🔗[Start Module](https://learn.microsoft.com/training/paths/manage-secure-power-bi/?wt.mc_id=studentamb_546883)
+- [ ] **Perform analytics in Power BI**
+  🔗[Start Module](https://learn.microsoft.com/training/modules/perform-analytics-power-bi/?wt.mc_id=studentamb_546883)
+- [ ] **Design effective reports in Power BI**
+  🔗[Start Module](https://learn.microsoft.com/training/paths/power-bi-effective/?wt.mc_id=studentamb_546883)
+
 ## 🛠️Notes
 - [2026-07-08]: Initialized Data Science library. Added foundational modules to track my progress from beginner to advanced data modeling.
