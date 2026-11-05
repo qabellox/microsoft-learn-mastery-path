@@ -1,4 +1,4 @@
-# 📊 Data Science & Analysis Library
+﻿# 📊 Data Science & Analysis Library
 
 A curated roadmap for mastering data transformation, modeling, and business intelligence.
 
@@ -7,7 +7,7 @@ Follow this path to progress from foundational concepts to professional data mod
 
 ### Phase 1: Foundations (Beginner)
 * Focus: Core data terminology and business roles.
-* 🔗 [Understand data concepts](https://learn.microsoft.com/training/paths/understand-data-concepts/?wt.mc_id=studentamb_546883)
+* 🔗 [Explore core data concepts](https://learn.microsoft.com/training/modules/explore-core-data-concepts/?wt.mc_id=studentamb_546883)
 
 ### Phase 2: Core Analytics (Intermediate)
 * Focus: Introduction to Power BI and transforming raw data into insights.
@@ -22,10 +22,8 @@ Follow this path to progress from foundational concepts to professional data mod
 ## 📈 Intermediate Level: Power BI Proficiency
 *Focus: Data Security, Advanced Analytics, and Report Optimization.*
 
-- [ ] **Manage and secure Power BI**
-  🔗[Start Module](https://learn.microsoft.com/training/paths/manage-secure-power-bi/?wt.mc_id=studentamb_546883)
-- [ ] **Perform analytics in Power BI**
-  🔗[Start Module](https://learn.microsoft.com/training/modules/perform-analytics-power-bi/?wt.mc_id=studentamb_546883)
+- [ ] **Model data with Power BI**
+  🔗[Start Path](https://learn.microsoft.com/training/paths/model-data-power-bi/?wt.mc_id=studentamb_546883)
 - [ ] **Design effective reports in Power BI**
   🔗[Start Module](https://learn.microsoft.com/training/paths/power-bi-effective/?wt.mc_id=studentamb_546883)
 
