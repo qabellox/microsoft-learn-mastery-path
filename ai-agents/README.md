@@ -1,4 +1,4 @@
-# -AI-Agents-A-Curated-Roadmap-for-beginners
+﻿# -AI-Agents-A-Curated-Roadmap-for-beginners
 A curated, structured roadmap for developers transitioning to Agentic AI and Autonomous Workflows from scratch, featuring official Microsoft Learn resources.
 
 Most AI agent tutorials are fragmented or outdated. This repository organizes core Microsoft Learn training into a logical, high-impact progression for developers transitioning into agentic architecture and autonomous AI workflows.
@@ -10,17 +10,16 @@ Follow this path in order to build a professional foundation in AI agent develop
 Phase 1: Fundamentals of Generative AI
 Focus: Understanding what an "Agent" actually is and the core mechanics of LLMs.
 - [🔗 Start Learning: Introduction to Generative AI and Agents](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/?wt.mc_id=studentamb_546883)
-🔗 [Introduction to Azure AI Agent Service](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-agent-service/?wt.mc_id=studentamb_546883)
 
 Phase 2: AI Agent Concepts
 Focus: Deep dive into how agents think, plan, and execute tasks.
-- [🔗 Start Learning: AI Agent Fundamentals](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/?wt.mc_id=studentamb_546883)
-* 🔗 [Choose an AI Agent Development Path](https://learn.microsoft.com/en-us/training/modules/choose-ai-agent-development-path/?wt.mc_id=studentamb_546883)
+- [🔗 Start Learning: Get started with AI fundamentals](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_546883)
+* 🔗 [Get started with AI apps and agents on Azure](https://learn.microsoft.com/training/paths/get-started-ai-apps-agents/?wt.mc_id=studentamb_546883)
 
 Phase 3: Practical Implementation on Azure
 Focus: Deploying agents and creating autonomous workflows using Azure AI services.
-- [🔗 Start Learning: Get Started with Generative AI and Agents in Azure](https://learn.microsoft.com/en-us/training/modules/get-started-with-generative-ai-and-agents/?wt.mc_id=studentamb_546883)
-* 🔗 [Develop an AI Agent with Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/?wt.mc_id=studentamb_546883)
+- [🔗 Start Learning: Develop AI agents on Azure](https://learn.microsoft.com/training/paths/develop-ai-agents-azure/?wt.mc_id=studentamb_546883)
+* 🔗 [Integrate MCP tools with Azure AI agents](https://learn.microsoft.com/training/modules/connect-agent-to-mcp-tools/?wt.mc_id=studentamb_546883)
 ---
 
 💡 Why This Roadmap?
